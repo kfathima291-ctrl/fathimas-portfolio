@@ -1,4 +1,4 @@
-# Fatima Khan | Personal Portfolio
+# Fathima Khan | Personal Portfolio
 
 Welcome to my personal portfolio! This website showcases my technical skills, projects, educational background, and interest in technology, Data Science, and Machine Learning.
 
