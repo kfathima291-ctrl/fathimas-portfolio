@@ -1,16 +1,81 @@
-# React + Vite
+# Fatima Khan | Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio! This website showcases my technical skills, projects, educational background, and interest in technology, Data Science, and Machine Learning.
 
-Currently, two official plugins are available:
+🌐 **Live Portfolio:** [View My Portfolio](YOUR_VERCEL_URL)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## About Me
 
-## React Compiler
+I am a Computer Science student passionate about Data Science, Machine Learning, and Software Development.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I enjoy building practical projects, exploring new technologies, and developing solutions to real-world problems.
 
-## Expanding the ESLint configuration
+## Technical Skills
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Programming Languages:** Python, Java, C, JavaScript
+- **Database:** SQL
+- **Areas of Interest:** Data Science, Machine Learning
+- **Frontend:** React, HTML, CSS, JavaScript
+
+## Portfolio Features
+
+- Modern and responsive user interface
+- Animated sections and smooth navigation
+- About Me section
+- Technical skills showcase
+- Projects showcase
+- Educational background
+- Resume download functionality
+- Contact section
+
+## Technologies Used
+
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Framer Motion
+- Lucide React
+- Vite
+
+## Getting Started
+
+To run this project locally:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/kfathima291-ctrl/fathimas-portfolio.git
+   ```
+
+2. Navigate to the project folder:
+
+   ```bash
+   cd fathimas-portfolio
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open the local URL displayed in your terminal.
+
+## Deployment
+
+This portfolio is deployed using Vercel and connected to GitHub for automatic deployments.
+
+## Contact
+
+**GitHub:** https://github.com/kfathima291-ctrl
+
+---
+
+⭐ Thank you for visiting my portfolio!
